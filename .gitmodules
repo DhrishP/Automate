@@ -8,3 +8,6 @@
 [submodule "botss"]
 	path = botss
 	url = https://github.com/DhrishP/bots
+[submodule "Webapps"]
+	path = Webapps
+	url = https://github.com/DhrishP/Webapps
